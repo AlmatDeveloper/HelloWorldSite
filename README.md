@@ -3,4 +3,7 @@
 2. Запускаем проект через IDE
 3. В браузере набираем http://localhost:8080 или http://localhost:8080/message
 
-#второй способ запуска с помощью команды gradlew bootRun в папке HelloWorldSite
+#второй способ
+1. cd HelloWorldSite
+2. gradlew bootStart
+3. В браузере http://localhost:8080 или http://localhost:8080/message
