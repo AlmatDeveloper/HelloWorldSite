@@ -1,0 +1,1 @@
+CREATE TABLE mail(message VARCHAR(30));

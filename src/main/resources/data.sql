@@ -1,0 +1,1 @@
+INSERT INTO mail(message) VALUES ('Hello, World');
